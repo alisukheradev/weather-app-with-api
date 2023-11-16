@@ -82,6 +82,10 @@ body{
     margin-top: -6px;
 
 }
-.weather{
-    display: block;
+.error{
+    text-align: left;
+    margin-left: 10px;
+    font-size: 14px;
+    margin-top: 10px;
+    display: none;
 }
